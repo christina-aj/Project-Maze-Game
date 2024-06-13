@@ -1,0 +1,28 @@
+1. https://parabellum-games.itch.io/retro-rpg-character-pack
+- Character Menu
+- Character Player
+- Enemy
+ 
+2. https://merchant-shade.itch.io/16x16-mixed-rpg-icons 
+- Chest Icon
+
+3. https://swapnilrane24.itch.io/hyper-casual-ui-free
+- Home Icon Button
+
+4. https://exceptrea.itch.io/laboratory-tileset-revamped-lite
+- Wall Layout Maze
+
+5. https://karwisch.itch.io/pxui-basic 
+- Stage Select Button
+
+6. https://rfzkk.itch.io/interface-buttons-pixel-art
+- Menu Utama Button
+
+7. https://deep-fold.itch.io/space-background-generator
+- Background Chara Select
+
+8. https://enjl.itch.io/background-starry-space
+- Background Stage Select
+
+9. Reference Game
+https://youtube.com/playlist?list=PLlEgNdBJEO-lNDJgg90fmfAq9RzORkQWP
